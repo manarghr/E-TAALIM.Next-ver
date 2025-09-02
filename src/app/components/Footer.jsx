@@ -66,7 +66,7 @@ return (
             />
             <button
                 type="submit"
-                className="bg-orange-400 hover:bg-orange-400 text-white font-semibold px-8 py-3 rounded-full transition-colors"
+                className="bg-orange-300 hover:bg-orange-400 text-white font-semibold px-8 py-3 rounded-full transition-colors"
             >
                 Subscribe
             </button>
